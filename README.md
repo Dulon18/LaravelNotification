@@ -7,3 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+![notification](https://github.com/Dulon18/LaravelNotification/assets/80118217/bbf94d4a-79c8-427c-9c07-b1d0f8fa1864)
