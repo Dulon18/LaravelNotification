@@ -19,5 +19,14 @@
  npm install
  
  npm run dev
+ 
+ php artisan migrate
+ 
+ Step 2:
+
+ php artisan notifications:table
+
+ php artisan migrate
+ 
 
 ![notification](https://github.com/Dulon18/LaravelNotification/assets/80118217/bbf94d4a-79c8-427c-9c07-b1d0f8fa1864)
