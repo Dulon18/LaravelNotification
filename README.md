@@ -34,3 +34,6 @@ Make controller , model , migration, notification
 ## Output
 
 ![notification](https://github.com/Dulon18/LaravelNotification/assets/80118217/bbf94d4a-79c8-427c-9c07-b1d0f8fa1864)
+
+
+<p align="center"><span style="color: red;">&hearts;</span> Thank You <span style="color: red;">&hearts;</span></p>
